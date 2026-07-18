@@ -3,7 +3,7 @@
 </p>
 
 # Legied
-<div style="padding:5px; background-color:purple; width:fit-content;"><b>All apps in one place with dreamed customizations.</b></div>
+<div style="padding:5px; background-color:purple; width:fit-content;"><b>All apps in one place with dreamed features.</b></div>
 
 
 
