@@ -1,4 +1,4 @@
-<img src="./InApp_Imgs/app-icon.png" width="150" style="display:flex; margin:auto;   border-radius:50%;" >
+<img src="./InApp_Imgs/app-icon.png" width="150" style="display:flex; margin:auto; border-radius:50%;" align="center" >
 
 # Legied
 <div style="padding:5px; background-color:purple; width:fit-content;"><b>All apps in one place with dreamed customizations.</b></div>
